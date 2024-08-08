@@ -1,0 +1,363 @@
+,NIH_SPENDING_CATS,Intermediate_step2
+0,ALS,ALS
+1,Acquired Cognitive Impairment,Acquired Cognitive Impairment
+2,Acute Respiratory Distress Syndrome,Acute Respiratory Distress Syndrome
+3,Adolescent Sexual Activity,Adolescent Sexual Activity
+4,Agent Orange & Dioxin,Agent Orange & Dioxin
+5,Agent Orange &Dioxin,Agent Orange & Dioxin
+6,Agent Orange &amp,Agent Orange & Dioxin
+7,Aging,Aging
+8,Alcoholism,Alcoholism
+9,"Alcoholism, Alcohol Use and Health",Alcoholism
+10,Allergic Rhinitis (Hay Fever),Allergic Rhinitis (Hay Fever)
+11,Alzheimer's Disease,Alzheimer's Disease and Related Dementias
+12,Alzheimer's Disease Related Dementias (ADRD),Alzheimer's Disease and Related Dementias
+13,Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD),Alzheimer's Disease and Related Dementias
+14,American Indian or Alaska Native,American Indians / Alaska Natives
+15,American Indians / Alaska Natives,American Indians / Alaska Natives
+16,Anorexia,Eating Disorders
+17,Anthrax,Anthrax
+18,Antimicrobial Resistance,Antimicrobial Resistance
+19,Anxiety Disorders,Anxiety Disorders
+20,Aphasia,Aphasia
+21,Arctic,Arctic
+22,Arthritis,Arthritis
+23,Assistive Technology,Assistive Technology
+24,Asthma,Asthma
+25,Ataxia Telangiectasia,Ataxia Telangiectasia
+26,Atherosclerosis,Atherosclerosis
+27,Attention Deficit Disorder (ADD),Attention Deficit Disorder (ADD)
+28,Autism,Autism
+29,Autoimmune Disease,Autoimmune Disease
+30,Back Pain,Back Pain
+31,Basic Behavioral and Social Science,Basic Behavioral and Social Science
+32,Batten Disease,Batten Disease
+33,Behavioral Changes Interventions that Delay onset of Sexual Activity,
+34,Behavioral and Social Science,Behavioral and Social Science
+35,Biodefense,
+36,Biodefense - Biodefense Research,
+37,Biodefense - Biodefense Research - Antibiotics/Antiviral,
+38,Biodefense - Biodefense Research - Basic Research (Genomics and Pathogenesis),
+39,Biodefense - Biodefense Research - Diagnostics,
+40,Biodefense - Biodefense Research - Vaccines,
+41,Biodefense - Chemical Countermeasures,
+42,Biodefense - Nuclear/Radiological Countermeasures,
+43,Bioengineering,Bioengineering
+44,Biomedical Imaging,Diagnostic Radiology
+45,Biotechnology,Biotechnology
+46,Bipolar Disorder,Bipolar Disorder
+47,Brain Cancer,Brain Cancer
+48,Brain Disorders,Brain Disorders
+49,Breast Cancer,Breast Cancer
+50,"Breastfeeding, Lactation and Breast Milk","Breastfeeding, Lactation and Breast Milk"
+51,Burden of Illness,Burden of Illness
+52,Cachexia,Cachexia
+53,Cancer,Cancer
+54,Cancer Genomics,Cancer Genomics
+55,Cannabidiol Research,Cannabinoid Research
+56,Cannabinoid Research,Cannabinoid Research
+57,Cardiovascular,Cardiovascular
+58,Caregiving Research,Caregiving Research
+59,Cerebral Palsy,Cerebral Palsy
+60,Cerebrovascular,Cerebrovascular
+61,Cervical Cancer,Cervical Cancer
+62,Charcot-Marie-Tooth Disease,Charcot-Marie-Tooth Disease
+63,Chemical Preparedness and Decontamination Activities,
+64,Child Abuse and Neglect Research,Child Abuse and Neglect Research
+65,Childhood Leukemia,Childhood Leukemia
+66,Childhood Obesity,
+67,Chronic Fatigue Syndrome,Chronic Fatigue Syndrome (ME/CFS)
+68,Chronic Fatigue Syndrome (ME/CFS),Chronic Fatigue Syndrome (ME/CFS)
+69,Chronic Liver Disease and Cirrhosis,Chronic Liver Disease and Cirrhosis
+70,Chronic Obstructive Pulmonary Disease,Chronic Obstructive Pulmonary Disease
+71,Chronic Pain,Chronic Pain
+72,Climate Change,Climate Change
+73,Climate-Related Exposures and Conditions,Health Effects of Climate Change
+74,Clinical Center Assessments,
+75,Clinical Research,Clinical Research
+76,Clinical Research - Extramural,
+77,Clinical Trials,Clinical Trials and Supportive Activities
+78,Clinical Trials and Supportive Activities,Clinical Trials and Supportive Activities
+79,Colo-Rectal Cancer,Colo-Rectal Cancer
+80,Comparative Effectiveness Research,Comparative Effectiveness Research
+81,Complementary and Alternative Medicine,Complementary and Alternative Medicine
+82,Complementary and Integrative Health,
+83,Conditions Affecting the Embryonic and Fetal Periods,Conditions Affecting the Embryonic and Fetal Periods
+84,Conditions affecting unborn children,Conditions Affecting the Embryonic and Fetal Periods
+85,Congenital Heart Disease,Congenital Heart Disease
+86,Congenital Muscular Dystrophy,Congenital Muscular Dystrophy
+87,Congenital Structural Anomalies,Congenital Structural Anomalies
+88,Contraception/Reproduction,Contraception/Reproduction
+89,Cooley's Anemia,Cooley's Anemia
+90,Cost Effectiveness Research,Cost Effectiveness Research
+91,Creutzfeldt-Jakob,
+92,Crohn's Disease,Crohn's Disease
+93,Cystic Fibrosis,Cystic Fibrosis
+94,D,
+95,DIS Limb Regeneration,
+96,Data Science,
+97,Dementia,Dementia
+98,Dental/Oral and Craniofacial Disease,Dental/Oral and Craniofacial Disease
+99,Depression,Depression
+100,Diabetes,Diabetes
+101,Diagnostic Radiology,Diagnostic Radiology
+102,Dietary Supplements,Dietary Supplements
+103,Diethylstilbestrol (DES),Diethylstilbestrol (DES)
+104,Digestive Diseases,Digestive Diseases
+105,Digestive Diseases - (Gallbladder),Digestive Diseases - (Gallbladder)
+106,Digestive Diseases - (Peptic Ulcer),Digestive Diseases - (Peptic Ulcer)
+107,Dioxin,
+108,Down Syndrome,Down Syndrome
+109,Drug Abuse (NIDA only),
+110,Duchenne/ Becker Muscular Dystrophy,Duchenne/ Becker Muscular Dystrophy
+111,Dystonia,Dystonia
+112,Eating Disorders,Eating Disorders
+113,Eczema / Atopic Dermatitis,Eczema / Atopic Dermatitis
+114,Effectiveness Research,Effectiveness Research
+115,Emergency Care,Emergency Care
+116,Emerging Infectious Diseases,Emerging Infectious Diseases
+117,Emphysema,Emphysema
+118,Endocannabinoid System Research,Endocannabinoid System Research
+119,Endocrine Disruptors,Endocrine Disruptors
+120,Endometriosis,Endometriosis
+121,Epilepsy,Epilepsy
+122,Estrogen,Estrogen
+123,Eye Disease and Disorders of Vision,Eye Disease and Disorders of Vision
+124,Facioscapulohumeral Muscular Dystrophy,Facioscapulohumeral Muscular Dystrophy
+125,Fetal Alcohol Syndrome,Fetal Alcohol Syndrome
+126,Fibroid Tumors (Uterine),Fibroid Tumors (Uterine)
+127,Fibromyalgia,Fibromyalgia
+128,Firearms Research,
+129,Food Allergies,Food Allergies
+130,Food Defense,
+131,Food Safety,Foodborne Illness
+132,Foodborne Illness,Foodborne Illness
+133,Fragile X Syndrome,Fragile X Syndrome
+134,Frontotemporal Dementia (FTD),Alzheimer's Disease and Related Dementias
+135,Gene Therapy,Gene Therapy
+136,Gene Therapy Clinical Trials,Gene Therapy Clinical Trials
+137,Genetic Testing,Genetic Testing
+138,Genetics,Genetics
+139,Global Warming Climate Change,Global Warming Climate Change
+140,HIV/AIDS,HIV/AIDS
+141,HPV and/or Cervical Cancer Vaccines,HPV and/or Cervical Cancer Vaccines
+142,Headaches,Migraines
+143,Health Disparities,Health Disparities
+144,Health Disparities Related,
+145,Health Effects of Climate Change,Health Effects of Climate Change
+146,Health Effects of Household Energy Combustion,Health Effects of Household Energy Combustion
+147,Health Effects of Indoor Air Pollution,Health Effects of Indoor Air Pollution
+148,Health Services,Health Services
+149,Hearing Loss,
+150,Heart Disease,Heart Disease
+151,Heart Disease - Coronary Heart Disease,Heart Disease - Coronary Heart Disease
+152,Hematology,Hematology
+153,Hepatitis,Hepatitis
+154,Hepatitis - A,Hepatitis - A
+155,Hepatitis - B,Hepatitis - B
+156,Hepatitis - C,Hepatitis - C
+157,Hodgkin's Disease,Hodgkin's Disease
+158,Homelessness,Homelessness
+159,Homicide and Legal Interventions,Homicide and Legal Interventions
+160,Human Fetal Tissue,Human Fetal Tissue
+161,Human Genome,Human Genome
+162,Huntington's Disease,Huntington's Disease
+163,Hydrocephalus,Hydrocephalus
+164,Hyperbaric Oxygen,Hyperbaric Oxygen
+165,Hypertension,Hypertension
+166,Immunization,Immunization
+167,Immunotherapy,
+168,Infant Mortality,Infant Mortality
+169,Infant Mortality/ (LBW),Infant Mortality
+170,Infectious Diseases,Infectious Diseases
+171,Infertility,Infertility
+172,Inflammatory Bowel Disease,Inflammatory Bowel Disease
+173,Influenza,Pneumonia & Influenza
+174,Injury (total) Accidents/Adverse Effects,Injury (total) Accidents/Adverse Effects
+175,Injury - Childhood Injuries,Injury (total) Accidents/Adverse Effects
+176,Injury - Trauma - (Head and Spine),Injury (total) Accidents/Adverse Effects
+177,Injury - Traumatic brain injury,Injury (total) Accidents/Adverse Effects
+178,Injury - Unintentional Childhood Injury,Injury (total) Accidents/Adverse Effects
+179,Intellectual and Developmental Disabilities (IDD),Intellectual and Developmental Disabilities (IDD)
+180,Interstitial Cystitis,Interstitial Cystitis
+181,Kidney Disease,Kidney Disease
+182,Kidney and Urologic - End Stage Renal Disease,
+183,Kidney and Urologic - Incontinence,
+184,Kidney and Urologic - Prostate Disease,
+185,Kidney and Urologic - Urinary Infection,
+186,Kidney and Urologic Diseases inc. Nephritis,
+187,Lead Poisoning,Lead Poisoning
+188,Lewy Body Dementia,Alzheimer's Disease and Related Dementias
+189,Liver Cancer,Liver Cancer
+190,Liver Disease,Liver Disease
+191,Lung,Lung
+192,Lung Cancer,Lung Cancer
+193,Lupus,Lupus
+194,Lyme Disease,Lyme Disease
+195,Lymphoma,Lymphoma
+196,Machine Learning and Artificial Intelligence,
+197,Macular Degeneration,Macular Degeneration
+198,Major Depressive Disorder,Depression
+199,Malaria,Malaria
+200,Malaria Vaccine,Malaria Vaccine
+201,Maternal Health,Maternal Health
+202,Mental Health,Mental Health
+203,Mental Illness,Mental Illness
+204,Mental Retardation (Intellectual and Developmental Disabilities (IDD)),Intellectual and Developmental Disabilities (IDD)
+205,Methamphetamine,Methamphetamine
+206,Microbiome,
+207,Migraines,Migraines
+208,Mind and Body,Mind and Body
+209,Minority Health,Minority Health
+210,Mucopolysaccharidoses (MPS),Mucopolysaccharidoses (MPS)
+211,Multiple Sclerosis,Multiple Sclerosis
+212,Muscular Dystrophy,Muscular Dystrophy
+213,Myasthenia Gravis,Myasthenia Gravis
+214,Myotonic Dystrophy,Myotonic Dystrophy
+215,Nanotechnology,Nanotechnology
+216,Nanotechnology - Fundamental nanoscale phenomena and processes,
+217,"Nanotechnology - Instrumentation research, metrology, and standards for nanotechnology",
+218,Nanotechnology - Major research facilities and instrumentation acquisition,
+219,Nanotechnology - Nanomanufacturing,
+220,Nanotechnology - Nanomaterial,
+221,Nanotechnology - Nanoscale devices and systems,
+222,Nanotechnology - Societal Dimensions,
+223,"Nanotechnology - Societal Dimensions - Environmental, Health and Safety Implications",
+224,Nanotechnology - Societal Dimensions - Societal Dimensions other than EHS,
+225,Neck Pain,Neck Pain
+226,Neonatal Respiratory Distress,Perinatal - Neonatal Respiratory Distress Syndrome
+227,Networking and Information Technology R&D,Networking and Information Technology R&D (NITRD)
+228,Networking and Information Technology R&D (NITRD),Networking and Information Technology R&D (NITRD)
+229,Networking and Information Technology R&D - Cyber security and information assurance,
+230,Networking and Information Technology R&D - High confidence software and systems,
+231,Networking and Information Technology R&D - High-end computing R&D,
+232,Networking and Information Technology R&D - High-end computing infrastructure and applications,
+233,Networking and Information Technology R&D - High-end infrastructure and applications,
+234,Networking and Information Technology R&D - Human computer interaction and information management,
+235,Networking and Information Technology R&D - Large scale networking,
+236,"Networking and Information Technology R&D - Social, economic, and workforce implications of IT and IT workforce development",
+237,Networking and Information Technology R&D - Software design and productivity,
+238,Networking and Information Technology R&amp,Networking and Information Technology R&D (NITRD)
+239,Neuroblastoma,Neuroblastoma
+240,Neurodegenerative,Neurodegenerative
+241,Neurofibromatosis,Neurofibromatosis
+242,Neuropathy,Neuropathy
+243,Neurosciences,Neurosciences
+244,Nutrition,Nutrition
+245,Obesity,Obesity
+246,Opioid Misuse and Addiction,
+247,Opioids,
+248,Organ Transplantation,Organ Transplantation
+249,Orphan Drug,Orphan Drug
+250,Osteoarthritis,Osteoarthritis
+251,Osteogenesis Imperfecta,Osteogenesis Imperfecta
+252,Osteoporosis,Osteoporosis
+253,Otitis Media,Otitis Media
+254,Ovarian Cancer,Ovarian Cancer
+255,Paget's Disease,Paget's Disease
+256,Pain Conditions - Chronic,Chronic Pain
+257,Pain Research,Pain Research
+258,Pancreatic Cancer,Pancreatic Cancer
+259,Parkinson's Disease,Parkinson's Disease
+260,Patient Safety,Patient Safety
+261,Pediatric,Pediatric
+262,Pediatric AIDS,Pediatric AIDS
+263,Pediatric Cancer,Pediatric Cancer
+264,Pediatric Cardiomyopathy,Pediatric Cardiomyopathy
+265,Pediatric Research Initiative,Pediatric Research Initiative
+266,Pelvic Inflammatory Disease,Pelvic Inflammatory Disease
+267,Perinatal - Birth - Preterm (LBW),Perinatal - Birth - Preterm (LBW)
+268,Perinatal - Neonatal Respiratory Distress Syndrome,Perinatal - Neonatal Respiratory Distress Syndrome
+269,Perinatal Period - Conditions Originating in Perinatal Period,Perinatal Period - Conditions Originating in Perinatal Period
+270,Peripheral Neuropathy,Neuropathy
+271,Physical Activity,Physical Activity
+272,Physical Rehabilitation,Physical Rehabilitation
+273,Pick's Disease,Pick's Disease
+274,Pneumonia,Pneumonia & Influenza
+275,Pneumonia & Influenza,Pneumonia & Influenza
+276,Pneumonia &Influenza,Pneumonia & Influenza
+277,Pneumonia &amp,Pneumonia & Influenza
+278,Polycystic Kidney Disease,Polycystic Kidney Disease
+279,Post-Traumatic Stress Disorder (PTSD),Post-Traumatic Stress Disorder (PTSD)
+280,Precision Medicine,Precision Medicine
+281,Pregnancy,Pregnancy
+282,Prescription Drug Abuse,Prescription Drug Abuse
+283,"Preterm, Low Birth Weight and Health of the Newborn",Perinatal - Birth - Preterm (LBW)
+284,Prevention,Prevention
+285,Prostate Cancer,Prostate Cancer
+286,Psoriasis,Psoriasis
+287,Radiation Oncology,Radiation Oncology
+288,Rare Diseases,Rare Diseases
+289,Regenerative Medicine,Regenerative Medicine
+290,Rehabilitation,Rehabilitation
+291,Rett Syndrome,Rett Syndrome
+292,Reye's Syndrome,Reye's Syndrome
+293,Rheumatoid Arthritis,Rheumatoid Arthritis
+294,Rural Health,Rural Health
+295,Sarcopenia,Sarcopenia
+296,Schizophrenia,Schizophrenia
+297,Scleroderma,Scleroderma
+298,Screening And Brief Intervention For Substance Abuse,Screening And Brief Intervention For Substance Abuse
+299,Sepsis,Septicemia
+300,Septicemia,Septicemia
+301,Serious Mental Illness,Mental Illness
+302,Sexual and Gender Minorities (SGM/LGBT*),Sexual and Gender Minorities (SGM/LGBT*)
+303,Sexually Transmitted Diseases/Herpes,Sexually Transmitted Infections
+304,Sexually Transmitted Infections,Sexually Transmitted Infections
+305,Sickle Cell Disease,Sickle Cell Disease
+306,Sleep Research,Sleep Research
+307,Small Pox,Small Pox
+308,Smoking and Health,Smoking and Health
+309,Spina Bifida,Spina Bifida
+310,Spinal Cord Injury,Injury (total) Accidents/Adverse Effects
+311,Spinal Muscular Atrophy,Spinal Muscular Atrophy
+312,Stem Cell Research,Stem Cell Research
+313,Stem Cell Research - Embryonic - Human,Stem Cell Research
+314,Stem Cell Research - Embryonic - Non-Human,Stem Cell Research
+315,Stem Cell Research - Induced Pluripotent Stem Cell,Stem Cell Research
+316,Stem Cell Research - Induced Pluripotent Stem Cell - Human,Stem Cell Research
+317,Stem Cell Research - Induced Pluripotent Stem Cell - Non-Human,Stem Cell Research
+318,Stem Cell Research - Nonembryonic - Human,Stem Cell Research
+319,Stem Cell Research - Nonembryonic - Non-Human,Stem Cell Research
+320,Stem Cell Research - Umbilical Cord Blood/ Placenta,Stem Cell Research
+321,Stem Cell Research - Umbilical Cord Blood/ Placenta - Human,Stem Cell Research
+322,Stem Cell Research - Umbilical Cord Blood/ Placenta - Human - Basic &Other Clinical Research,
+323,Stem Cell Research - Umbilical Cord Blood/ Placenta - Human - Clinical Trials,
+324,Stem Cell Research - Umbilical Cord Blood/ Placenta - Non-Human,Stem Cell Research
+325,Stem Cell Research - Umbilical Cord Blood/ Placenta - Non-Human - Basic &Other Clinical Research,
+326,Stroke,Stroke
+327,Substance Abuse,Substance Abuse
+328,Substance Abuse Prevention,Substance Abuse
+329,Sudden Infant Death Syndrome,Sudden Infant Death Syndrome
+330,Suicide,Suicide
+331,Suicide Prevention,Suicide Prevention
+332,Teenage Pregnancy,Teenage Pregnancy
+333,Temporomandibular Muscle/Joint Disorder (TMJD),Temporomandibular Muscle/Joint Disorder (TMJD)
+334,Therapeutic Cannabinoid Research,Therapeutic Cannabinoid Research
+335,Tobacco,Tobacco
+336,Tobacco Smoke and Health,Smoking and Health
+337,Topical Microbicides,Topical Microbicides
+338,Tourette Syndrome,Tourette Syndrome
+339,Translational Research,
+340,Transmissible Spongiform Encephalopathy (TSE),Transmissible Spongiform Encephalopathy (TSE)
+341,Transplantation,Transplantation
+342,Tuberculosis,Tuberculosis
+343,Tuberculosis Vaccine,Tuberculosis Vaccine
+344,Tuberous Sclerosis,Tuberous Sclerosis
+345,Underage Drinking,Underage Drinking
+346,Urologic Diseases,Urologic Diseases
+347,Usher Syndrome,Usher Syndrome
+348,Uterine Cancer,Uterine Cancer
+349,Vaccine Related,Vaccine Related
+350,Vaccine Related (AIDS),Vaccine Related (AIDS)
+351,Vaginal Cancer,Vaginal Cancer
+352,Valley Fever,Valley Fever
+353,Vascular Cognitive Impairment/Dementia,Alzheimer's Disease and Related Dementias
+354,Vector-Borne Diseases,Vector-Borne Diseases
+355,Violence Against Women,Violence Against Women
+356,Violence Research,Violence Research
+357,Vulvodynia,Vulvodynia
+358,West Nile Virus,West Nile Virus
+359,Women's Health,Women's Health
+360,Youth Violence,Youth Violence Prevention
+361,Youth Violence Prevention,Youth Violence Prevention
